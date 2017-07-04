@@ -3,10 +3,10 @@ header {
 }
 
 h1 {
-  color: #4b6181;
-  font-family: 'Raleway', sans-serif;
-  font-size: 32px;
-  font-weight: 500;
+  color: #000;
+  font-family: 'Didot', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
   text-align: center;
   text-transform: uppercase;
 }
